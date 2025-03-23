@@ -72,8 +72,6 @@ This project is licensed under the **MIT License** – feel free to modify and d
 
 ## 📬 Contact
 🔹 **GitHub:** [@ananyajain827](https://github.com/ananyajain827)  
-🔹 **Email:** ananyajain827@example.com  
-
-Happy Coding! 🚀✨
+🔹 **Email:** ananyajain827@gmail.com  
 
 
