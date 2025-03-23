@@ -6,7 +6,8 @@ GestureZoom is a real-time, AI-powered **touchless image interaction system** th
 ### 🎥 Demo 
 
 Click the link below to watch the demo:  
-[Watch Demo Video](https://github.com/ananyajain87/AirZoom-Touchless-Image-Scaling-Navigation/blob/main/AirZoom.mp4)
+![Screenshot 2025-03-23 142824](https://github.com/user-attachments/assets/704fe3b6-6478-441c-b260-c4ea352a2a96)
+vigation/blob/main/.png)
 
 
 ---
