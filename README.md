@@ -1,102 +1,79 @@
-# 🚀 GestureZoom - AI-Powered Image Control 🖐️
+# AirZoom: Touchless Image Scaling & Navigation 🚀
 
-GestureZoom is a real-time, AI-powered **touchless image interaction system** that lets you **zoom and move images** using just your hands! Built with **OpenCV, MediaPipe, and cvzone**, this project enables natural **gesture-based control** for an intuitive user experience.
-
----
-### 🎥 Demo 
-
-Click the link below to watch the demo:  
-![Screenshot 2025-03-23 142824](https://github.com/user-attachments/assets/704fe3b6-6478-441c-b260-c4ea352a2a96)
-vigation/blob/main/.png)
-
+### 📌 Overview  
+**AirZoom** is an advanced touchless interaction system that allows users to **scale and navigate images using hand gestures**. Leveraging **OpenCV, MediaPipe, and cvzone**, this project enables an immersive, contact-free experience for image manipulation. Perfect for interactive displays, presentations, and accessibility solutions! 🎮🖼️
 
 ---
 
-## ✨ Features
+## 🎥 Demo
+![Screenshot 2025-03-23 142824](https://github.com/user-attachments/assets/a5aac37f-c8aa-41d5-8a9d-909a666f87e2)
 
-✅ **Real-time Hand Tracking** using MediaPipe 🤖  
-✅ **Gesture-Based Zoom & Pan** with two-hand control 🖐️✋  
-✅ **Smooth Scaling & Positioning** using Exponential Moving Average (EMA) 📏  
-✅ **Dynamic Image Overlay** with transparent blending 🎭  
-✅ **Customizable Sensitivity & Constraints** for precision 🔧  
 
 ---
 
-## 🛠️ Tech Stack
 
-🔹 **Python** 🐍  
-🔹 **OpenCV** for image processing 🎥  
-🔹 **MediaPipe** for AI-powered hand tracking 🤖  
-🔹 **cvzone** for simplified gesture detection ⚡  
-
----
-
-## 🎮 How It Works
-
-1️⃣ Show both hands with **index fingers extended** ☝️☝️  
-2️⃣ Move hands **closer or apart** to zoom in and out 🔍🔎  
-3️⃣ Shift hand positions to **move the image** 📂  
-4️⃣ Press **'q'** to exit the application ❌  
+## ⚡ Features
+✅ **Hand Tracking** – Detects and tracks hands in real-time.  
+✅ **Zoom Control** – Scale images by adjusting the distance between hands.  
+✅ **Smooth Navigation** – Move the image using precise hand gestures.  
+✅ **High Accuracy** – Uses **cvzone** and **MediaPipe** for robust gesture detection.  
+✅ **Touchless Interaction** – No need to touch a screen, reducing contamination risks.  
 
 ---
 
-## 📥 Installation & Setup
+## 🛠️ Installation & Setup
+### **1️⃣ Install Dependencies**
+Ensure you have **Python 3.x** installed, then run:
+```bash
+pip install opencv-python mediapipe cvzone numpy
+```
 
-1️⃣ **Clone the repository**:  
-   ```bash
-   git clone https://github.com/your-username/GestureZoom.git
-   cd GestureZoom
-   ```
-2️⃣ **Install dependencies**:  
-   ```bash
-   pip install opencv-python mediapipe cvzone numpy
-   ```
-3️⃣ **Run the script**:  
-   ```bash
-   python gesture_zoom.py
-   ```
+### **2️⃣ Clone the Repository**
+```bash
+git clone https://github.com/ananyajain827/AirZoom-Touchless-Image-Scaling-Navigation.git
+cd AirZoom-Touchless-Image-Scaling-Navigation
+```
 
----
-
-## 📌 Use Cases
-
-🔹 **Virtual Image Interaction** for AR applications 🌐  
-🔹 **Touchless UI Control** for smart screens 📲  
-🔹 **Interactive Presentations & Design Tools** 🎨  
+### **3️⃣ Run the Script**
+```bash
+python AirZoom.py
+```
 
 ---
 
-## 🚀 Future Enhancements
+## 🖥️ Usage Instructions
+1️⃣ **Launch the program** – Your webcam will activate.  
+2️⃣ **Hold up both hands** – The system will detect your fingers.  
+3️⃣ **Move hands apart** – Zoom in on the image.  
+4️⃣ **Move hands closer** – Zoom out of the image.  
+5️⃣ **Move hands in any direction** – Navigate around the image.  
+6️⃣ **Press 'Q'** to exit.  
 
-🔹 **Hand Gesture Rotation Support** 🔄  
-🔹 **Multi-Image Interaction** 🖼️  
-🔹 **Integration with AR/VR Systems** 🕶️  
+---
+
+## 🔧 Technologies Used
+🔹 **Python** – Core programming language.  
+🔹 **OpenCV** – For real-time image processing.  
+🔹 **MediaPipe** – For hand tracking.  
+🔹 **cvzone** – Simplifies hand tracking and gesture recognition.  
+🔹 **NumPy** – For numerical operations.  
 
 ---
 
 ## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repo and submit a pull request with improvements.  
-
-1. Fork the repository 🍴  
-2. Create a new branch: `git checkout -b feature-branch` 🌿  
-3. Commit your changes: `git commit -m 'Add a new feature'` 📌  
-4. Push to the branch: `git push origin feature-branch` 🚀  
-5. Submit a pull request ✅  
+Feel free to **fork** this repository and submit a **pull request** if you want to enhance the functionality. Contributions are always welcome! 💡
 
 ---
 
 ## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Contact
-
-For any questions or feedback, feel free to connect:  
-📧 Email: ananyajain827@gmail.com 
-🔗 GitHub: ([](https://github.com/ananyajain827))
-🔗 LinkedIn: ([](https://www.linkedin.com/in/ananya-jain-01104427b/))  
+This project is licensed under the **MIT License** – feel free to modify and distribute.
 
 ---
+
+## 📬 Contact
+🔹 **GitHub:** [@ananyajain827](https://github.com/ananyajain827)  
+🔹 **Email:** ananyajain827@example.com  
+
+Happy Coding! 🚀✨
+
+
