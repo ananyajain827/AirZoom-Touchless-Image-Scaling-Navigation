@@ -6,7 +6,10 @@
 ---
 
 ## 🎥 Demo
-![Screenshot 2025-03-23 142824](https://github.com/user-attachments/assets/a5aac37f-c8aa-41d5-8a9d-909a666f87e2)
+![Screenshot 2025-03-23 142824](https://github.com/user-attachments/assets/ff0ed9b4-a901-4b23-9715-ef834e47f4b7)
+
+
+
 
 
 ---
